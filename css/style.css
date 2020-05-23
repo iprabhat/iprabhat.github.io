@@ -5,3 +5,25 @@
 .container-ext {
     text-align: center;
 }
+
+.row-ext {
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+    margin: 10px;
+}
+.quote {
+    font-size: 35px;
+    font-weight: bold;
+    color : rgb(5, 14, 102);
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;    
+}
+
+.author {
+    font-size: 20;
+    text-align: right;
+    margin: 20px;
+}
